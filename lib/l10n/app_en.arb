@@ -1,0 +1,15 @@
+{
+  "sports": "Sports",
+  "general":"General",
+  "health": "Health",
+  "business": "Business",
+  "technology": "Technology",
+  "science": "Science",
+  "entertainment": "Entertainment",
+  "settings": "Settings",
+  "english": "English",
+  "arabic": "Arabic",
+  "language": "Language",
+  "pickyourinterest": "Pick your category\n of interest",
+  "categories": "Categories"
+}

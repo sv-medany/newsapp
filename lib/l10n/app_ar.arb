@@ -1,0 +1,15 @@
+{
+  "sports": "الرياضه",
+  "general":"عامه",
+  "health": "الصحه",
+  "business": "الاقتصاد",
+  "technology": "التكنولوجيا",
+  "science": "العلوم",
+  "entertainment": "الترفيه",
+  "settings": "الاعدادات",
+  "english": "الانجليزيه",
+  "arabic": "العربيه",
+  "language": "اللغه",
+  "pickyourinterest": "اختار المجال المفضل اليك",
+  "categories": "التصنيفات"
+}
